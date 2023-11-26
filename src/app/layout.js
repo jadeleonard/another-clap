@@ -1,6 +1,6 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
-
+import ReactDOM from 'react-dom'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
