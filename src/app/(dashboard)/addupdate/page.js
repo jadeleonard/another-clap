@@ -1,8 +1,13 @@
 import React from 'react';
 
-function Page(props) {
+async function Page(props) {
+    const response = await fetch('')
     return (
         <div>
+
+
+
+
 
         </div>
     );

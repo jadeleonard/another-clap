@@ -1,11 +1,12 @@
 
-import './globals.css'
 
 
 export const metadata = {
-    title:'Dashboard',
-    description:'Dashboard'
+    title:'Update',
+    description:'Updating user profile'
 }
+
+
 
 export default function RootLayout({children}){
     return(
